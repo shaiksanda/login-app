@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+button {
+  border-width: 0px;
+  border-radius: 8px;
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+  outline: none;
+}
+
+button:hover {
+  background-color: greenyellow;
+}
